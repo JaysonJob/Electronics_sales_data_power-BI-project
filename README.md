@@ -1,11 +1,11 @@
 # Electronics Sales Analytics Dashboard
 
-A Power BI report analysing sales performance across products, regions, and time.
+A Power BI report analysing sales performance across products,regions and time.
 
 ## Pages
-- **Sales Overview** – KPIs: Total Sales, Revenue (USD), Profit Margin, Avg Discount
+- **Sales Overview** – KPIs: Total Sales,Revenue (USD),Profit Margin,Avg Discount
 - **Product Performance** – Profitability and quantity breakdown by product and category
-- **Geographic Performance** – Sales by country/city and sales rep rankings
+- **Geographic Performance** – Sales by country,city and sales rep rankings
 
 ## Key Metrics
 - Total Sales & Total USD
